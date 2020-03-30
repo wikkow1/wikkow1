@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="<!--język-->">
+<head>
+<meta charset="<!--kodowanie znaków-->">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title><!--tytuł strony--></title>
+</head>
+
+<body>
+<header>
+<!--nagłówek-->
+</header>
+<!--częśc zasadnicz strony-->
+<footer>
+<!--stopka-->
+</footer>
+</body>
+</html>
